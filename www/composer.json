@@ -1,0 +1,14 @@
+{
+    "name": "clinicagaias/apicap",
+    "authors": [
+        {
+            "name": "Miguel Duro",
+            "email": "miguel.duro@gerosalud.es"        }
+    ],
+    "require": {
+        "twbs/bootstrap": "^5.2",
+        "slim/slim": "*",
+        "slim/psr7": "*",
+        "phpoffice/phpspreadsheet": "^2.0"
+    }
+}
